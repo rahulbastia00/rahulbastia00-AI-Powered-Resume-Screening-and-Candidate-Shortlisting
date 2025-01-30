@@ -1,0 +1,49 @@
+Step 4: Automated Feedback Generation
+Objective: Generate personalized emails using LLMs.
+
+Libraries & Tools Required:
+LLM API: OpenAI GPT-4, transformers (if using local LLMs)
+
+step 5: HR Analytics Dashboard
+Objective: Visualize hiring insights using dashboards.
+
+Libraries & Tools Required:
+Frontend: Streamlit
+Backend: Flask/FastAPI
+Database: MongoDB
+Visualization: Plotly, Seaborn
+
+Step 6: Deployment (DevOps & Cloud)
+Objective: Deploy the application on AWS/GCP with CI/CD.
+
+Libraries & Tools Required:
+Containerization: Docker, Kubernetes
+CI/CD: GitHub Actions
+Cloud Deployment: AWS EC2, AWS Lambda, S3
+API Management: FastAPI, NGINX
+
+
+
+
+
+
+
+
+i have attached my model here is my idea "I want to build an end-to-end AI-powered resume screening and candidate shortlisting system. The development process should include clear, structured steps with specific libraries, tools, and resources—no suggestions, only direct requirements.
+
+The project should cover:
+
+1. Data Collection & Preprocessing – Extract text from PDFs and DOCX, clean and preprocess resume/job description data.
+
+
+2. NLP-Based Resume Parsing – Use Named Entity Recognition (NER) and embeddings to extract and match skills.
+
+
+3. Candidate Shortlisting Using ML – Implement ML models to rank resumes based on job relevance" and i have done until step 3 now i want to persorm these action so perform these for me "Step 6: Deployment (DevOps & Cloud)
+Objective: Deploy the application on AWS/GCP with CI/CD.
+
+Libraries & Tools Required:
+Containerization: Docker, Kubernetes
+CI/CD: GitHub Actions
+Cloud Deployment: AWS EC2, AWS Lambda, S3
+API Management: FastAPI, NGINX" perform it one by one
