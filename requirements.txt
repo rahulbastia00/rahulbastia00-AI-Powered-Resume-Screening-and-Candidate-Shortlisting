@@ -1,0 +1,12 @@
+
+langchain_groq
+dotenv
+streamlit: 1.38.0
+spacy: 3.8.4
+pandas: 2.2.2
+plotly: 6.0.0
+pdfminer.six: 20240706
+python-docx: 1.1.2
+pymongo: 4.11
+sentence-transformers: 3.4.0
+scikit-learn: 1.5.1
