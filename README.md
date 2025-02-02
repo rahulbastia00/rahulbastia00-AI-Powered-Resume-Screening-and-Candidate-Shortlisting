@@ -42,7 +42,7 @@ The **AI Resume Matcher** is a Streamlit-based web application designed to analy
 ### Installation Steps
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/ai-resume-matcher.git
+git clone [https://github.com/your-repo/ai-resume-matcher.git](https://github.com/rahulbastia00/rahulbastia00-AI-Powered-Resume-Screening-and-Candidate-Shortlisting.git)
 cd ai-resume-matcher
 
 # Create virtual environment
